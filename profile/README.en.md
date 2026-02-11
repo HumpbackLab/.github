@@ -1,6 +1,6 @@
 # HumpbackLab (Whale Studio)
 
-🌐 **Language**: [中文](profile/README.md) | [English](profile/README.en.md)
+🌐 **Language**: [中文](README.md) | [English](README.en.md)
 
 ## About Us
 
@@ -155,4 +155,4 @@ We also thank all contributors, test users, and community members for their supp
 *Last Updated: February 2026*
 *Note: This README will be updated periodically as projects evolve*
 
-🌐 **Other Language Versions**: [Chinese Version](profile/README.md)
+🌐 **Other Language Versions**: [Chinese Version](README.md)
