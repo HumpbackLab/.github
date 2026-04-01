@@ -6,13 +6,6 @@
 
 HumpbackLab（座头鲸工作室）是一个专注于轻量级无人载具解决方案的研发团队。我们致力于通过开源硬件和软件，降低入门门槛，让更多人享受科技的乐趣。
 
-## 使命与愿景
-
-### 使命
-- **简化航模入门**：通过创新产品设计，降低新手学习成本
-- **推动开源生态**：基于优秀开源项目，深度集成优化，回馈社区
-- **促进技术分享**：提供完整文档和教程，帮助用户掌握核心技术
-
 ### 愿景
 成为轻量级无人载具控制领域的领先创新者，通过开源协作推动整个行业发展。
 
@@ -44,46 +37,6 @@ LightFin 是一款为 INAV 固件设计的小型飞控，集成 AT32F435 主控�
 
 **GitHub 仓库:** [HumpbackLab/flight-controller-manual](https://github.com/HumpbackLab/flight-controller-manual)
 
-## 开源理念
-
-我们坚信开源协作的力量。所有项目均采用开源许可证发布，欢迎社区参与和改进：
-
-1. **透明开发** - 所有设计文件、源代码和文档公开可见
-2. **社区驱动** - 用户反馈和贡献直接影响产品发展方向
-3. **知识共享** - 通过详细文档和教程传播技术知识
-4. **生态共建** - 基于成熟开源项目，避免重复造轮子
-
-## 如何贡献
-
-我们欢迎各种形式的贡献：
-
-### 1. 代码贡献
-- 提交 Pull Request 修复 bug 或添加新功能
-- 完善文档和示例代码
-- 编写测试用例提高代码质量
-
-### 2. 硬件设计
-- PCB 布局优化建议
-- 元件选型改进
-- 机械结构设计
-
-### 3. 文档改进
-- 用户手册翻译和校对
-- 教程编写
-- API 文档完善
-
-### 4. 问题反馈
-- 提交 Issue 报告 bug
-- 提出功能建议
-- 分享使用经验和技巧
-
-### 贡献流程
-1. Fork 相关仓库
-2. 创建功能分支 (`git checkout -b feature/amazing-feature`)
-3. 提交更改 (`git commit -m 'Add some amazing feature'`)
-4. 推送到分支 (`git push origin feature/amazing-feature`)
-5. 开启 Pull Request
-
 ## 社区与支持
 
 ### 官方渠道
@@ -110,18 +63,6 @@ LightFin 是一款为 INAV 固件设计的小型飞控，集成 AT32F435 主控�
 - **文档内容**: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 
 各子模块可能有特定的许可证，请查看各仓库的 LICENSE 文件了解详细信息。
-
-## 致谢
-
-我们衷心感谢以下开源项目和社区的支持：
-
-- **[INAV](https://github.com/iNavFlight/inav)** - 优秀的开源飞控固件
-- **[ExpressLRS](https://github.com/ExpressLRS/ExpressLRS)** - 高性能开源RC链路
-- **[Typst](https://github.com/typst/typst)** - 现代化的文档排版系统
-- **[KiCad](https://www.kicad.org/)** - 开源电子设计自动化工具
-
-同时感谢所有贡献者、测试用户和社区成员的支持与反馈！
-
 ---
 
 **座头鲸工作室 · 让飞行更简单**
